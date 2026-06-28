@@ -1,6 +1,6 @@
 """
 MÓDULO: sistema_academico.py
-git remote add origin https://github.com/danielsanchezarr1999-oss/gestion_esudiantes.py-.gitPROPÓSITO: Demostrar conceptos avanzados de POO (Clases, Atributos, Constructores, 
+PROPÓSITO: Demostrar conceptos avanzados de POO (Clases, Atributos, Constructores, 
            Métodos, Instanciación y Agregación de Objetos) mediante un sistema interactivo.
 AUTOR: Jesús Daniel Sánchez Arredondo
 """
